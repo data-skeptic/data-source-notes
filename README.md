@@ -34,6 +34,7 @@ For finding sources, our objectives are:
 
 ## Schema
 
+```json
 {
     "name": "For Sale By Owner"
   , "main_url": "http://www.forsalebyowner.com"
@@ -48,3 +49,4 @@ For finding sources, our objectives are:
     {"author": "kylepolich", "date": "2016-03-20", "note": "Disappointing, but good example of a quick parse"}
   ]
 }
+```
