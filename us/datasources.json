@@ -1,0 +1,16 @@
+[
+{
+    "name": "For Sale By Owner"
+  , "main_url": "http://www.forsalebyowner.com"
+  , "date_last_checked": "2016-03-20"
+  , "checked_by_git_user": "kylepolich"
+  , "has_current": "yes"
+  , "has_historic": "no"
+  , "states_covered": "all"
+  , "example_api_url": "http://www.forsalebyowner.com/search/list/los-angeles-california/house,condo-types/0-page/proximity,desc-sort"
+  , "example_use": "http://dataskeptic.com/blog/b009_Crawling-forsalebyowner.php"
+  , "notes": [
+    {"author": "kylepolich", "date": "2016-03-20", "note": "Disappointing, but good example of a quick parse"}
+  ]
+}
+]
