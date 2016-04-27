@@ -12,8 +12,7 @@
   , "notes": [
     {"author": "kylepolich", "date": "2016-03-20", "note": "Disappointing, but good example of a quick parse"}
   ]
-},
-{
+},{
     "name": "Real Property Sales and Transfers"
   , "main_url": "http://data.denvergov.org/dataset/city-and-county-of-denver-real-property-sales-and-transfers"
   , "date_last_checked": "2016-03-23"
@@ -29,6 +28,18 @@
   , "example_use": None
   , "notes": [
     {"author": "vincentdavis", "date": "2016-03-23", "note": "Good data 2008 - current"}
+},{
+    "name": "Assessor Property Records Search"
+  , "main_url": "http://ats.jeffco.us/ats/splash.do"
+  , "date_last_checked": "2016-03-24"
+  , "checked_by_git_user": ""
+  , "has_current": ""
+  , "has_historic": ""
+  , "states_covered": ""
+  , "example_api_url": ""
+  , "example_use": ""
+  , "notes": [
+    {"author": "kylepolich", "date": "2016-03-24", "note": "Noted in Slack by heteroskedastic"}
   ]
 }
 ]
