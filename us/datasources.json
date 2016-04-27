@@ -12,8 +12,23 @@
   , "notes": [
     {"author": "kylepolich", "date": "2016-03-20", "note": "Disappointing, but good example of a quick parse"}
   ]
-},
-{
+},{
+    "name": "Real Property Sales and Transfers"
+  , "main_url": "http://data.denvergov.org/dataset/city-and-county-of-denver-real-property-sales-and-transfers"
+  , "date_last_checked": "2016-03-23"
+  , "checked_by_git_user": "vincentdavis"
+  , "has_current": "yes"
+  , "has_historic": "yes"
+  , "states_covered": ["COLORADO"]
+  , "state_counties": ["DENVER"]
+  , "data_formats": ["csv", "xlsx"]
+  , "data_download": {"csv":"http://data.denvergov.org/download/gis/real_property_sales_and_transfers/csv/real_property_sales_and_transfers.csv"}
+  , "data_dictionary": "yes"
+  , "example_api_url": None
+  , "example_use": None
+  , "notes": [
+    {"author": "vincentdavis", "date": "2016-03-23", "note": "Good data 2008 - current"}
+},{
     "name": "Assessor Property Records Search"
   , "main_url": "http://ats.jeffco.us/ats/splash.do"
   , "date_last_checked": "2016-03-24"
